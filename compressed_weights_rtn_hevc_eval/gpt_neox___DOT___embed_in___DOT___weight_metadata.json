@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "rtn": {
+    "min_val": -0.327392578125,
+    "max_val": 0.33447265625,
+    "num_bits": 8,
+    "scale": 0.00259554993872549,
+    "original_shape": [
+      50304,
+      768
+    ],
+    "original_dtype": "torch.float16"
+  },
+  "frame_mapping": {
+    "frame_size": 1024,
+    "width": 1024,
+    "height": 1024,
+    "num_frames": 37,
+    "padding_len": 163840,
+    "original_shape": [
+      50304,
+      768
+    ],
+    "dtype": "torch.uint8"
+  },
+  "codec_job": {
+    "width": 1024,
+    "height": 1024,
+    "fps": 1.0,
+    "intra_only": true,
+    "qp": 0,
+    "lossless": true,
+    "backend": "auto",
+    "preset": "slow"
+  },
+  "layer_name": "gpt_neox___DOT___embed_in___DOT___weight",
+  "min_val": -0.327392578125,
+  "max_val": 0.33447265625,
+  "compression_mode": "rtn_lossless_hevc",
+  "num_bits": 8,
+  "scale": 0.00259554993872549,
+  "original_dtype": "torch.float16",
+  "original_shape": [
+    50304,
+    768
+  ],
+  "padding_len": 163840,
+  "dtype": "torch.uint8",
+  "frame_size": 1024,
+  "num_frames": 37
+}

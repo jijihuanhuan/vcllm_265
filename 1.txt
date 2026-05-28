@@ -1,0 +1,3 @@
+--enable-visual-opts
+
+视频编解码启用注意加这个
