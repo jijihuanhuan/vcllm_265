@@ -1,0 +1,826 @@
+{
+  "prompt": "A cute golden retriever in the snow",
+  "steps": 50,
+  "hook_sites": [
+    "mid_block"
+  ],
+  "map_to_frames": true,
+  "records": [
+    {
+      "timestep": 981,
+      "step_index": 0,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_000_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_000_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_000_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 961,
+      "step_index": 1,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_001_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_001_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_001_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 961,
+      "step_index": 2,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_002_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_002_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_002_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 941,
+      "step_index": 3,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_003_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_003_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_003_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 921,
+      "step_index": 4,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_004_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_004_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_004_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 901,
+      "step_index": 5,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_005_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_005_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_005_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 881,
+      "step_index": 6,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_006_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_006_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_006_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 861,
+      "step_index": 7,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_007_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_007_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_007_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 841,
+      "step_index": 8,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_008_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_008_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_008_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 821,
+      "step_index": 9,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_009_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_009_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_009_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 801,
+      "step_index": 10,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_010_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_010_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_010_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 781,
+      "step_index": 11,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_011_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_011_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_011_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 761,
+      "step_index": 12,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_012_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_012_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_012_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 741,
+      "step_index": 13,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_013_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_013_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_013_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 721,
+      "step_index": 14,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_014_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_014_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_014_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 701,
+      "step_index": 15,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_015_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_015_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_015_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 681,
+      "step_index": 16,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_016_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_016_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_016_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 661,
+      "step_index": 17,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_017_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_017_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_017_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 641,
+      "step_index": 18,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_018_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_018_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_018_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 621,
+      "step_index": 19,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_019_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_019_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_019_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 601,
+      "step_index": 20,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_020_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_020_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_020_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 581,
+      "step_index": 21,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_021_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_021_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_021_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 561,
+      "step_index": 22,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_022_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_022_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_022_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 541,
+      "step_index": 23,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_023_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_023_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_023_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 521,
+      "step_index": 24,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_024_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_024_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_024_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 501,
+      "step_index": 25,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_025_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_025_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_025_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 481,
+      "step_index": 26,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_026_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_026_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_026_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 461,
+      "step_index": 27,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_027_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_027_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_027_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 441,
+      "step_index": 28,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_028_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_028_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_028_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 421,
+      "step_index": 29,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_029_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_029_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_029_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 401,
+      "step_index": 30,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_030_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_030_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_030_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 381,
+      "step_index": 31,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_031_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_031_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_031_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 361,
+      "step_index": 32,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_032_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_032_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_032_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 341,
+      "step_index": 33,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_033_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_033_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_033_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 321,
+      "step_index": 34,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_034_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_034_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_034_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 301,
+      "step_index": 35,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_035_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_035_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_035_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 281,
+      "step_index": 36,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_036_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_036_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_036_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 261,
+      "step_index": 37,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_037_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_037_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_037_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 241,
+      "step_index": 38,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_038_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_038_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_038_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 221,
+      "step_index": 39,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_039_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_039_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_039_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 201,
+      "step_index": 40,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_040_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_040_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_040_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 181,
+      "step_index": 41,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_041_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_041_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_041_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 161,
+      "step_index": 42,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_042_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_042_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_042_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 141,
+      "step_index": 43,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_043_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_043_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_043_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 121,
+      "step_index": 44,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_044_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_044_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_044_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 101,
+      "step_index": 45,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_045_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_045_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_045_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 81,
+      "step_index": 46,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_046_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_046_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_046_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 61,
+      "step_index": 47,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_047_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_047_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_047_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 41,
+      "step_index": 48,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_048_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_048_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_048_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 21,
+      "step_index": 49,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_049_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_049_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_049_mid_block_frames_meta.json",
+      "num_frames": 20
+    },
+    {
+      "timestep": 1,
+      "step_index": 50,
+      "site": "mid_block",
+      "shape": [
+        1,
+        1280,
+        8,
+        8
+      ],
+      "dtype": "torch.float16",
+      "feature_path": "outputs/diffcodec_phase1/step_050_mid_block.pt",
+      "frames_path": "outputs/diffcodec_phase1/step_050_mid_block_frames.npy",
+      "frames_meta_path": "outputs/diffcodec_phase1/step_050_mid_block_frames_meta.json",
+      "num_frames": 20
+    }
+  ]
+}

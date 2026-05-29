@@ -1,0 +1,514 @@
+{
+  "original_shape": [
+    1,
+    1280,
+    8,
+    8
+  ],
+  "channel_group_size": 64,
+  "frame_size": 1024,
+  "cfg_batch": "cond",
+  "raw_batch_size": 1,
+  "groups": [
+    {
+      "channel_start": 0,
+      "channel_end": 64,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 64,
+      "channel_end": 128,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 128,
+      "channel_end": 192,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 192,
+      "channel_end": 256,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 256,
+      "channel_end": 320,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 320,
+      "channel_end": 384,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 384,
+      "channel_end": 448,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 448,
+      "channel_end": 512,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 512,
+      "channel_end": 576,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 576,
+      "channel_end": 640,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 640,
+      "channel_end": 704,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 704,
+      "channel_end": 768,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 768,
+      "channel_end": 832,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 832,
+      "channel_end": 896,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 896,
+      "channel_end": 960,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 960,
+      "channel_end": 1024,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 1024,
+      "channel_end": 1088,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 1088,
+      "channel_end": 1152,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 1152,
+      "channel_end": 1216,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    },
+    {
+      "channel_start": 1216,
+      "channel_end": 1280,
+      "matrix_shape": [
+        64,
+        64
+      ],
+      "frame_metadata": {
+        "original_shape": [
+          64,
+          64
+        ],
+        "content_frame_size": 1024,
+        "logical_frame_size": 1024,
+        "hardware_frame_size": 1024,
+        "padded_to": null,
+        "frame_size": 1024,
+        "width": 1024,
+        "height": 1024,
+        "num_frames": 1,
+        "padding_len": 1044480,
+        "dtype": "torch.float16"
+      },
+      "num_frames": 1
+    }
+  ]
+}
